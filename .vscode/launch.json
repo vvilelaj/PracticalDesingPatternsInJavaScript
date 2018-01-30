@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/02.Structural\\01.Decorator\\urgent-task.js"
+            "program": "${workspaceFolder}/03.Behavioral\\01.Observer\\main.js"
         }
     ]
 }
